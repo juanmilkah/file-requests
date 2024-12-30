@@ -1,0 +1,252 @@
+[
+    {
+        "name": "Buster",
+        "age": 9,
+        "isMale": true
+    },
+    {
+        "name": "Tom",
+        "age": 14,
+        "isMale": true
+    },
+    {
+        "name": "Luna",
+        "age": 8,
+        "isMale": false
+    },
+    {
+        "name": "Salem",
+        "age": 19,
+        "isMale": false
+    },
+    {
+        "name": "Garfield",
+        "age": 20,
+        "isMale": true
+    },
+    {
+        "name": "Sophie",
+        "age": 20,
+        "isMale": false
+    },
+    {
+        "name": "Snowball",
+        "age": 20,
+        "isMale": true
+    },
+    {
+        "name": "Nala",
+        "age": 14,
+        "isMale": false
+    },
+    {
+        "name": "Jerry",
+        "age": 19,
+        "isMale": false
+    },
+    {
+        "name": "Charlie",
+        "age": 17,
+        "isMale": true
+    },
+    {
+        "name": "Toby",
+        "age": 5,
+        "isMale": true
+    },
+    {
+        "name": "Ginger",
+        "age": 15,
+        "isMale": true
+    },
+    {
+        "name": "Jerry",
+        "age": 14,
+        "isMale": true
+    },
+    {
+        "name": "Kitty",
+        "age": 11,
+        "isMale": true
+    },
+    {
+        "name": "Maggie",
+        "age": 12,
+        "isMale": true
+    },
+    {
+        "name": "Simba",
+        "age": 15,
+        "isMale": true
+    },
+    {
+        "name": "Shadow",
+        "age": 12,
+        "isMale": true
+    },
+    {
+        "name": "Finn",
+        "age": 14,
+        "isMale": false
+    },
+    {
+        "name": "Charlie",
+        "age": 11,
+        "isMale": true
+    },
+    {
+        "name": "Buster",
+        "age": 8,
+        "isMale": true
+    },
+    {
+        "name": "Patches",
+        "age": 4,
+        "isMale": true
+    },
+    {
+        "name": "Max",
+        "age": 13,
+        "isMale": true
+    },
+    {
+        "name": "Simba",
+        "age": 1,
+        "isMale": false
+    },
+    {
+        "name": "Mittens",
+        "age": 8,
+        "isMale": false
+    },
+    {
+        "name": "Oscar",
+        "age": 13,
+        "isMale": false
+    },
+    {
+        "name": "Shadow",
+        "age": 13,
+        "isMale": false
+    },
+    {
+        "name": "Tom",
+        "age": 20,
+        "isMale": false
+    },
+    {
+        "name": "Bella",
+        "age": 12,
+        "isMale": false
+    },
+    {
+        "name": "Finn",
+        "age": 14,
+        "isMale": false
+    },
+    {
+        "name": "Tom",
+        "age": 9,
+        "isMale": false
+    },
+    {
+        "name": "Sophie",
+        "age": 12,
+        "isMale": false
+    },
+    {
+        "name": "Ash",
+        "age": 20,
+        "isMale": true
+    },
+    {
+        "name": "Simba",
+        "age": 19,
+        "isMale": false
+    },
+    {
+        "name": "Nala",
+        "age": 9,
+        "isMale": false
+    },
+    {
+        "name": "Daisy",
+        "age": 2,
+        "isMale": true
+    },
+    {
+        "name": "Oliver",
+        "age": 2,
+        "isMale": false
+    },
+    {
+        "name": "Finn",
+        "age": 19,
+        "isMale": false
+    },
+    {
+        "name": "Lucy",
+        "age": 20,
+        "isMale": false
+    },
+    {
+        "name": "Nala",
+        "age": 4,
+        "isMale": false
+    },
+    {
+        "name": "Kitty",
+        "age": 20,
+        "isMale": false
+    },
+    {
+        "name": "Whiskers",
+        "age": 13,
+        "isMale": false
+    },
+    {
+        "name": "Smokey",
+        "age": 8,
+        "isMale": false
+    },
+    {
+        "name": "Sassy",
+        "age": 20,
+        "isMale": true
+    },
+    {
+        "name": "Mochi",
+        "age": 17,
+        "isMale": true
+    },
+    {
+        "name": "Lucy",
+        "age": 17,
+        "isMale": false
+    },
+    {
+        "name": "Kitty",
+        "age": 10,
+        "isMale": true
+    },
+    {
+        "name": "Lucy",
+        "age": 20,
+        "isMale": true
+    },
+    {
+        "name": "Milo",
+        "age": 13,
+        "isMale": true
+    },
+    {
+        "name": "Peanut",
+        "age": 12,
+        "isMale": true
+    },
+    {
+        "name": "Sophie",
+        "age": 19,
+        "isMale": false
+    }
+]
