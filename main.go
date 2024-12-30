@@ -7,6 +7,7 @@ import (
 	"log/slog"
 	"net/http"
 	"os"
+	"time"
 )
 
 func main() {
@@ -54,7 +55,8 @@ func handleUpload(w http.ResponseWriter, r *http.Request) {
 	defer file.Close()
 
 	// create new file
-	out, err := os.Create("uploaded_file")
+	filename := fmt.Sprintf("uploaded_file_%d.json", time.Now().Unix())
+	out, err := os.Create(filename)
 	if err != nil {
 		slog.Error("Failed to create new file for upload")
 		http.Error(w, "Internal Server Error", http.StatusInternalServerError)
@@ -69,7 +71,7 @@ func handleUpload(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	slog.Info("File uploaded successfully")
+	slog.Info(fmt.Sprintf("File uploaded successfully %s", filename))
 	w.Header().Set("Content-Type", "text/plain")
 	w.WriteHeader(http.StatusOK)
 	w.Write([]byte("File uploaded successfully"))
